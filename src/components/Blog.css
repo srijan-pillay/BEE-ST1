@@ -1,0 +1,15 @@
+.card{
+
+    width: 90%;
+    height : 50vh;
+    background-color: #bdf1ef;
+    margin: 70px;
+    align-items: center;
+    overflow: none;
+}
+.about{
+    display: flex;
+    padding: 20px;
+    vertical-align: center
+    
+}

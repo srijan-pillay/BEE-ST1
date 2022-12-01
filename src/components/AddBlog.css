@@ -1,0 +1,21 @@
+.contain{
+    height: 100%;
+    background-color: #D4ECDD;
+    width: 100%;
+    margin-top: 200px;
+    position: absolute;
+
+}
+
+.wrapper{
+    padding: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+   
+      .wrapper textarea{
+        width : 400px;
+        height: 200px;
+      }
+    
+  }
